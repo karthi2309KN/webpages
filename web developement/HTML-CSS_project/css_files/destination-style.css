@@ -1,0 +1,108 @@
+#testimonial-carousel{
+  color:black;
+  text-align: center;
+  padding-top: 80px;
+}
+
+.icon_image{
+  width:50px;
+  height:50px;
+  border-radius:100%;
+  background-color:#ffffff;
+  margin-top: 60px;
+  margin-bottom: 0;
+  margin-left: 100px;
+}
+
+#content1{
+  position:absolute;
+  color:#080808;
+  visibility:hidden;
+}
+
+#content2{
+  position:relative;
+  /* top : -135px; */
+  color:aliceblue;
+  visibility:hidden;
+}
+
+#content3{
+  position:relative;
+  top:-180px; 
+  color:aliceblue;
+  visibility:hidden;
+}
+
+
+body{
+    font-family: montserrat;
+}
+
+.menuOption{
+  padding-top:1.5rem;
+}
+
+.n-tags{
+  padding-right:30px;
+}
+
+.mid-container{
+  color:white;
+  text-align: center;
+  padding-top:200px;
+
+}
+
+.icon_container{
+  width:100px;
+  height:200px;
+}
+
+.testimonial-text{
+  color:rgb(0, 0, 0);
+}
+
+.testimonial-image{
+  width:15%;
+  height:25vh;
+}
+
+.heading{
+  color:white;
+  padding-top: 50px;
+}
+
+.heading:hover{
+  color: #665A48;
+}
+
+.icontent-1,.icontent-2,.icontent-3{
+  font-size: 1.5rem;
+  font-weight: bolder;
+  color: rgb(250, 245, 245);
+  margin-bottom: 10px;
+
+}
+
+.icontent-1{
+
+  margin-left: 84px;
+}
+
+.icontent-2{
+
+  margin-left: 89px;
+}
+
+.icontent-3{
+
+  margin-left: 83px;
+}
+
+.moon_img{
+  width: 200px;
+  height: 200px;
+  margin-left: 250px;
+  margin-bottom: 20px;
+}

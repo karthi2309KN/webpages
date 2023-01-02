@@ -1,0 +1,55 @@
+body{
+  font-family: montserrat;
+}
+
+.navbar:hover{
+  color: black;
+}
+
+
+.menuOption{
+  padding-top:1.5rem;
+}
+
+.n-tags{
+  padding-right:30px;
+}
+
+.first-container{
+  text-align: center;
+  color:white;
+  padding-top: 100px;
+}
+
+.small-heading{
+  font-size: 50px;
+}
+.big-heading{
+  font-size: 100px;
+}
+
+.big-heading:hover {
+  color: #d9232d;
+}
+
+
+.para{
+  font-size:20px;
+}
+
+.second-container{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.img_mng{
+  position:fixed;
+  bottom: 50px;
+  right: 200px;
+}
+
+.img1_mng{
+  position:fixed;
+  bottom: 50px;
+  right: 300px;
+}

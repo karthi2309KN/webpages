@@ -1,0 +1,10 @@
+.huge{
+  font-size: 100rem;
+  color:red;
+  font-weight: bold;
+}
+.very{
+  font-size: 50rem;
+  color:yellow;
+  font-weight: bolder;
+}

@@ -1,0 +1,49 @@
+#testimonial-carousel{
+  color:white;
+  text-align: center;
+  padding-top: 80px;
+}
+
+body{
+    font-family: montserrat;
+}
+
+.menuOption{
+  padding-top:1.5rem;
+}
+
+.n-tags{
+  padding-right:30px;
+}
+
+.testimonial-text{
+  color:white;
+  padding-bottom: 50px;
+}
+
+.testimonial-image{
+  width:15%;
+  height:25vh;
+  padding-bottom:30px;
+}
+
+.heading{
+  color:white;
+  padding-top: 50px;
+}
+
+.heading:hover{
+  color:grey;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+
+.hori:hover{
+  border-top-style: hidden;
+}
